@@ -5,4 +5,4 @@
 - Space to shoot
 - Enter to restart
 
-Made the basics using the tutorial then built other features on top of that, such as different levels of difficulty.
+Made the basics using the tutorial then built other features on top of that, such as different levels of difficulty and a better UI.
